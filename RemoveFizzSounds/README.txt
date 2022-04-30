@@ -5,4 +5,4 @@ READ ME
 This addon:
 Removes Fizz Sounds
 ------------------
-To remove all errors find on my github: RemoveFizzSounds
+To remove all errors find on github: https://github.com/ah682/HideError
