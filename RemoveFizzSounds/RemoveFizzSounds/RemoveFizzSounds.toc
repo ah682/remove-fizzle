@@ -1,0 +1,5 @@
+## Interface: 90200
+## Title: RemoveFizzSounds
+## Notes: Removes all Fizz Sounds
+## Version: 1.0
+RemoveFizzSounds.lua
