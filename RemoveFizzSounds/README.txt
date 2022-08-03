@@ -1,7 +1,7 @@
 READ ME
 ------------------
-#Interface: 90205
-v1.1
+#Interface: 90207
+v1.2
 ------------------
 This addon:
 Removes Fizz Sounds
